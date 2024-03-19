@@ -1,1 +1,1 @@
-# psc-lista-04-2024
+Este exercício visa a prática de habilidades variadas e manipulações diversas de dados, além da prática de utilização de estruturas condicionais e laços de repetição, proporcionando experiência útil para o desenvolvimento de código.
